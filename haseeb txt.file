@@ -1,0 +1,9 @@
+git clone 
+
+cd muh tab
+
+git add .
+
+git commit -m
+
+git push
